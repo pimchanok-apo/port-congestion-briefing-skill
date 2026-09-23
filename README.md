@@ -1,7 +1,7 @@
 # Port Congestion Briefing — Claude Skill
 
 **Category:** Skill
-**Author:** Pimchanok, Regional Container Lines (RCL)
+**Author:** Pimchanok A.
 
 ## What it does
 
